@@ -1,3 +1,4 @@
+touch
 Simple go web app
 =================
 
